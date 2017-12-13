@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://192.168.161.136:8001/APP/zxqg.ipa</string>
+            <string>http://116.204.98.131.7878/APP/zxqg.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -19,7 +19,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://192.168.161.136:8001/APP/logo.png</string>
+            <string>http://116.204.98.131.7878/APP/logo.png</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -27,7 +27,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://192.168.161.136:8001/APP/logo.png</string>
+            <string>http://116.204.98.131.7878/APP/logo.png</string>
           </dict>
         </array>
         <key>metadata</key>
